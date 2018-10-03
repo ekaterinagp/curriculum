@@ -1,0 +1,66 @@
+[
+    {
+        "semester": 1,
+        "components": [
+            {
+                "name": "Compulsory Subjects",
+                "ects": 30,
+                "content": "<ul><li>● Basic Web Design &nbsp;&nbsp;&nbsp;&nbsp;</li> <li>● Basic Animation  &nbsp;&nbsp;&nbsp;&nbsp;</li><li>● Basic UX  &nbsp;&nbsp;&nbsp;&nbsp;</li><li>● Basic Video</li>",
+                "details": "<p class=\"x\">x</p><section class=\"core-area\"><h5>Design and Visualisation</h5><p class=\"desc-inside\">The student will learn the different methods and steps that go into designing simple digital user interfaces. They will be able to apply key design processes such as moodboards, style tiles, etc. and produce documentation of the design process. They will gain knowledge in basic compositional elements and digital design principles e.g. <str>Gestalt Laws, contrast</str>, etc..</p></section><section class=\"core-area\"><h5>Interaction Development</h5><p class=\"desc-inside\">The student will understand the structure and use of the internet, with special emphasis on client-server relationships and their impact on the development of a multimedia production. They will become familiar with relevant technologies, central methods for modelling, structuring and developing digital user interfaces such as <str>basic HTML, basic CSS and basic Javascript</str>. The student will learn to use key technologies and methods of version control e.g. <str>Git</str>, for a multimedia production.</p></section><section class=\"core-area\"><h5>Communication and Presentation</h5><p class=\"desc-inside\">The student will learn of the different types of digital media, e.g. <str>websites, animations, videos</str>, etc. They will gain knowledge in important methods used to test products e.g. <str>focus group, Think Aloud test</str>, etc. on potential users and then improve the product based on the results of the test, producing content better-suited for the users.</p></section><section class=\"core-area\"><h5>Business</h5><p class=\"desc-inside\">The student will focus on central theories, methods and tools, e.g. the Business Model Canvas, required for planning, developing and managing simple multimedia productions. The student will learn the fundamental laws behind copyright and licensing methods, as well as understanding the role a multimedia designer plays in the production of a product.</p></section>",
+                "inhold": [{},{},{},{}]
+            }
+        ]
+    },
+    {
+        "semester": 2,
+        "components": [
+            {
+                "name": "Compulsory Subjects",
+                "ects": 30,
+                "content": "<ul><li>● Dynamic Prototypes  &nbsp;&nbsp;&nbsp;&nbsp;</li><li>● User-centered Design &nbsp;&nbsp;&nbsp;&nbsp;</li><li>● CMS</li>",
+                "details": "<p class=\"x\">x</p><section class=\"core-area\"><h5>Design and Visualisation</h5><p class=\"desc-inside\">The student will participate in team-work. The student can work with relevant tools such as the <str>Photoshop and Illustrator</str>, theories, methods and rules for the design and development of user-oriented design and user experiences with digital interfaces. The student utilises methods for presenting data and information. The student has the skills to apply design processes for the production and communication of digital user interfaces and has the capabilities to manage process documentation and communication in relation to stakeholders.</p></section><section class=\"core-area\"><h5>Interaction Development</h5><p class=\"desc-inside\">The student acquires knowledge of relevant and current technologies as well as central programming paradigms for developing user interfaces. In team-based situations the student will learn to: apply key technologies to manage and display content, data formats and the exchange and presentation of limited and complex data sets, synchronously and asynchronously with the server and in digital user interfaces; apply key programming principles, including control structures, functions and variables for the development of digital user interfaces. The student can manage process documentation and communication in relation to stakeholders of multimedia productions as well as data exchange via digital user interfaces.</p></section><section class=\"core-area\"><h5>Communication and Presentation</h5><p class=\"desc-inside\">The student understands how to apply testing on potential users and then use the results to support, create and contribute to the production of digital, user-oriented content and create user experiences in complex digital user interfaces. They will acquire knowledge and apply methods for user understanding and content production including information structure and digital media in team-based multimedia productions. </p></section><section class=\"core-area\"><h5>Business</h5><p class=\"desc-inside\">The student will gain an understanding of the company’s external environment, including the stakeholders and resource base. They will learn of tools that are applied in practice and how data is used for the optimisation of multimedia production. They will acquire skills in project management e.g. <str>Scrum</str>, etc. and quality assurance in team-based multimedia productions. </p></section>",
+                "inhold": [{},{},{},{}]
+            }
+        ]
+    },
+    {
+        "semester": 3,
+        "components": [
+            {
+                "name": "Compulsory Subjects",
+                "ects": 20,
+                "content": "",
+                "details": "<p class=\"x\">x</p><section class=\"core-area\"><h5>Design and Visualisation</h5><p class=\"desc-inside\">The student has knowledge in current international trends in digital design and as well as methods for presenting information and data. They are able to apply current international development trends to design, develop, adjust and maintain advanced digital user interfaces.</section><section class=\"core-area\"><h5>Interaction Development</h5><p class=\"desc-inside\">The student is able to evaluate, define, select and apply central and current libraries e.g. <str>jQuery</str> and frameworks for innovative developing of advanced digital user interfaces. They can apply key technologies, methods,  data structures and data formats to the exchange and presentation of complex data sets with a server and in digital user interfaces. The student will acquire the skills to communicate this process to stakeholders.</p></section><section class=\"core-area\"><h5>Communication and Presentation</h5><p class=\"desc-inside\">The student can apply central theory and methods for planning user interaction and communication in various media productions. They are updated on current international trends and how different user groups use digital media and technologies and are able to apply this to the planning and development of user experiences. The student can assess, adjust and present solutions for innovative communication in advanced multimedia productions and they have the skills to communicate support of digital user experiences to stakeholders.</p></section><section class=\"core-area\"><h5>Business</h5><p class=\"desc-inside\">The student understands the digital business models applied in practice and budgeting of multimedia productions. They are able to assess and analyse data and present solutions for innovative development of multimedia productions. They apply relevant theories and methods, and acquire new knowledge of business aspects that support the development of advanced multimedia productions.</p></section>",
+                "inhold": [{},{},{},{}]
+            },
+            {
+                "name": "Electives",
+                "ects": 10,
+                "content": "",
+                "details": "<p class=\"x\">x</p><section class=\"core-area\"><p class=\"desc-inside\">Elective subjects allow students to specialise within a particular academic/professional subject area. The elective subjects offered are described in an electives catalogue published at the beginning of the third semester. The catalogue includes a description of the scope, learning objectives and ECTS weighting of each elective subject, which are weighted at either 5 or 10 ECTS.</p><p class=\"desc-inside\">Students can choose between elective subjects within one or more of the 4 core areas.</p></section>",
+                "inhold": [{},{},{},{}]
+
+            }
+        ]
+    },
+    {
+        "semester": 4,
+        "components": [
+            {
+                "name": "Internship",
+                "ects": 15,
+                "content": "",
+                "details": "<p class=\"x\">x</p><section class=\"core-area\"><p class=\"desc-inside\">The student will complete a 3 month unpaid internship in the fourth semester. The student has acquired knowledge of the requirements and expectations of companies with regard to the multimedia designer’s knowledge, skills and attitudes towards the work. They understand understand the practice-related use of theory, method and tools by the profession and within the subject area.</p><p class=\"desc-inside\">The student has acquired the skills needed to apply versatile technical and analytical working methods of relevance to employment within the sector, assess practice-oriented issues and problems, and present possible solutions to communicate practice-oriented issues and reasoned solution proposals. They have the ability to manage the structuring and planning of day-to-day tasks within the profession, and they participate in disciplinary and interdisciplinary cooperation with a professional approach.</p></section>",
+                "inhold": [{},{},{},{}]
+            },
+            {
+                "name": "Final Project",
+                "ects": 15,
+                "content": "",
+                "details": "<p class=\"x\">x</p><section class=\"core-area\"><p class=\"desc-inside\">The objective of the final exam project is to document whether the student has acquired the qualifications needed to combine theoretical, methodological and practical elements and to communicate these.</p><p class=\"desc-inside\">The problem statement must be central to the multimedia profession and be prepared by the student in cooperation with a public or private company. Alternatively, the final exam project can be based on the student starting up his or her own business. KEA must approve the problem statement. The project concludes with a report and a product. The product must be a digital multimedia production s intended to demonstrate that the level of achievement expected at the end of the programme has been reached. </p></section>",
+                "inhold": [{},{},{},{}]
+
+            }
+        ]
+    }
+]

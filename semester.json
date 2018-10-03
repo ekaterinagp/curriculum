@@ -1,0 +1,168 @@
+[
+    {
+        "semester": 1,
+        "abroadPossible": false,
+        "components": ["Multimedia production 1"],
+        "ects": [30],
+        "Compulsory": [true],
+        "inhold": [
+            { // include 2 arrays, each with 4 items/core areas
+                "area": ["business", "design and visualisation","interactive dev", "communiation and presentation"],
+                "learningObjectivesInEachArea": [
+                    { // for business
+                        "originalCurriculum": " ", // including knowledge, skills and competences, can be further categorized
+                        "ects": 5,
+                        "desc": " ", // our description
+                        "examples": " ", // our examples
+                    },
+                    {
+                        // for DV, same structure as above,
+                        "originalCurriculum": " ", // including knowledge, skills and competences, can be further categorized
+                        "ects": 10,
+                        "desc": " ", // our description
+                        "examples": " ", // our examples
+                    },
+                    {
+                        // for ID, same structure as above
+                        "originalCurriculum": " ", // including knowledge, skills and competences, can be further categorized
+                        "ects": 10,
+                        "desc": " ", // our description
+                        "examples": " ", // our examples
+                    },
+                    {
+                        // for CP, same structure as above
+                        "originalCurriculum": " ", // including knowledge, skills and competences, can be further categorized
+                        "ects": 5,
+                        "desc": " ", // our description
+                        "examples": " ", // our examples
+                    }
+                ]
+            }
+        ]
+        /* each core area with their skill/knowledges/competences can be further categorized , like
+        "B" would be an array [
+                {
+                "name": "learning-objectives",
+                "content" :
+                    [
+                        {
+                            "category": "knowledge",
+                            "content": ["", "", ""], // from the lists in curriculum
+                        },
+                        {
+                            "category": "skills",
+                            "content": ["", "", ""], // from the lists in curriculum
+                        },
+                        {
+                            "category": "competences",
+                            "content": ["", "", ""], // from the lists in curriculum
+                        },
+                    ]
+                },
+                {"name": "ects", "content": 5},
+                {"description": " "}, // our description
+                {"examples" : " "} // our examples
+            ]
+        "DV", "ID", "CP"// repeat these for each core areas
+        */
+    },
+
+    {
+        "semester": 2,
+        "abroad-possible": false,
+        "components": ["Multimedia production 2"],
+        "ects": [30],
+        "Compulsory": [true],
+        "inhold": [
+            { // include 2 arrays, each with 4 items/core areas
+                "area": ["business", "design and visualisation","interactive dev", "communiation and presentation"],
+                "learningObjectivesInEachArea": [
+                    { // for business
+                        "originalCurriculum": " ", // including knowledge, skills and competences, can be further categorized
+                        "ects": 5,
+                        "desc": " ", // our description
+                        "examples": " ", // our examples
+                    },
+                    {
+                        // for DV, same structure as above,
+                        "originalCurriculum": " ", // including knowledge, skills and competences, can be further categorized
+                        "ects": 10,
+                        "desc": " ", // our description
+                        "examples": " ", // our examples
+                    },
+                    {
+                        // for ID, same structure as above
+                        "originalCurriculum": " ", // including knowledge, skills and competences, can be further categorized
+                        "ects": 10,
+                        "desc": " ", // our description
+                        "examples": " ", // our examples
+                    },
+                    {
+                        // for CP, same structure as above
+                        "originalCurriculum": " ", // including knowledge, skills and competences, can be further categorized
+                        "ects": 5,
+                        "desc": " ", // our description
+                        "examples": " ", // our examples
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "semester": 3,
+        "abroad-possible": true,
+        "components": ["Multimedia production 3", "elective"],
+        "ects": [20, 10],
+        "Compulsory": [true, false],
+        "inhold": [ // for this semester
+            { // include 2 arrays, each with 4 items/core areas
+                "area": ["business", "design and visualisation","interactive dev", "communiation and presentation"],
+                "learningObjectivesInEachArea": [
+                    { // for business
+                        "originalCurriculum": " ", // including knowledge, skills and competences, can be further categorized
+                        "ects": 5,
+                        "desc": " ", // our description
+                        "examples": " ", // our examples
+                    },
+                    {
+                        // for DV, same structure as above,
+                        "originalCurriculum": " ", // including knowledge, skills and competences, can be further categorized
+                        "ects": 10,
+                        "desc": " ", // our description
+                        "examples": " ", // our examples
+                    },
+                    {
+                        // for ID, same structure as above
+                        "originalCurriculum": " ", // including knowledge, skills and competences, can be further categorized
+                        "ects": 10,
+                        "desc": " ", // our description
+                        "examples": " ", // our examples
+                    },
+                    {
+                        // for CP, same structure as above
+                        "originalCurriculum": " ", // including knowledge, skills and competences, can be further categorized
+                        "ects": 5,
+                        "desc": " ", // our description
+                        "examples": " ", // our examples
+                    }
+                ]
+            },
+            { // the content of elective, area ects and so on
+                "area": [], // possible core areas that offer electives
+                "learningObjectivesInEachArea": [],
+            }
+        ],
+    },
+    {
+        "semester": 4,
+        "abroad-possible": true,
+        "components": ["internship", "final project"],
+        "ects": [15, 15],
+        "Compulsory": [true, true],
+        "inhold": [
+            {}, // for internship
+            {}, // for final project
+        ],
+    }
+]
